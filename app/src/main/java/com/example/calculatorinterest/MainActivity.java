@@ -13,6 +13,8 @@ import android.widget.RadioGroup;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Try to commit first time
+
     private Button dis10, dis20,dis30;
     private EditText edittext;
     private TextView result;
