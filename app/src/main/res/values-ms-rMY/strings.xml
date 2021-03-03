@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculatorInterest</string>
+    <string name="result">Keputusan</string>
+    <string name="discount">Diskaun</string>
+    <string name="interest">Faedah</string>
+</resources>
